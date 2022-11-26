@@ -1,6 +1,6 @@
 # Password Generator
 This program asks the user for a password length, then randomly generates a "strong" password
-of that length for the user. This program requires that the user enters a length greater than 12
+of that length. This program requires that the user enters a length greater than 12
 characters, but less than 112 characters.
 
 ## Security
